@@ -1,0 +1,23 @@
+/* class start */
+.center {
+    text-align: center;
+}
+/* class end */
+
+
+
+/* id start */
+#attention {
+    font-size: 1.5em;
+}
+/* id end*/
+
+h1 {
+    font-size: 3em;
+    color:slategray;
+}
+
+h2 {
+    font-size: 2em;
+    color:tan
+}
